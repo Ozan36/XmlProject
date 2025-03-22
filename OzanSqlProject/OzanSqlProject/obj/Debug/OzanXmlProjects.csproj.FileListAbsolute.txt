@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\OzanSqlProject\OzanSqlProject\bin\Debug\OzanSqlProject.exe.config
+C:\Users\pc\source\repos\OzanSqlProject\OzanSqlProject\bin\Debug\OzanSqlProject.exe
+C:\Users\pc\source\repos\OzanSqlProject\OzanSqlProject\bin\Debug\OzanSqlProject.pdb
+C:\Users\pc\source\repos\OzanSqlProject\OzanSqlProject\obj\Debug\OzanXmlProjects.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\OzanSqlProject\OzanSqlProject\obj\Debug\OzanXmlProjects.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\OzanSqlProject\OzanSqlProject\obj\Debug\OzanSqlProject.exe
+C:\Users\pc\source\repos\OzanSqlProject\OzanSqlProject\obj\Debug\OzanSqlProject.pdb

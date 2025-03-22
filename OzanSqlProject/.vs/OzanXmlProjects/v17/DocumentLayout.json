@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\OzanSqlProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F37D0A-21E6-49CC-B922-64D4BDC28474}|OzanSqlProject\\OzanXmlProjects.csproj|c:\\users\\pc\\source\\repos\\ozansqlproject\\ozansqlproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F37D0A-21E6-49CC-B922-64D4BDC28474}|OzanSqlProject\\OzanXmlProjects.csproj|solutionrelative:ozansqlproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 290,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\OzanSqlProject\\OzanSqlProject\\Program.cs",
+              "RelativeDocumentMoniker": "OzanSqlProject\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\OzanSqlProject\\OzanSqlProject\\Program.cs",
+              "RelativeToolTip": "OzanSqlProject\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:50:55.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
